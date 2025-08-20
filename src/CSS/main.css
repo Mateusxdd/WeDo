@@ -1,0 +1,46 @@
+body {
+    background-image: url('https://static.wixstatic.com/media/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png/v1/fill/w_980,h_742,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png'); /* Caminho da sua imagem */
+    background-size:contain;
+    background-repeat: no-repeat; 
+    background-position: bottom; 
+    height: 100vh; 
+        margin: 0; 
+}
+.Fundo-f{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.Fundo-f h1{
+    font-size: 50px;
+    padding: 20px;
+}
+#img-fundo{
+    height: 700px;
+}
+.cabecalho-filho p{
+    font-size: 20px;
+    padding: 20px; 
+}
+.cabecalho2{
+    padding: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    display: flex;
+     flex-direction: row;
+    align-items: end;
+}
+#cad1, #cad2,#cad3{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 10px;
+}
+#cad1{
+    padding-left: 0px;
+}
+.cabecalho2 img{
+    height: 30px;
+    width: 30px;
+}

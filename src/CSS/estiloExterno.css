@@ -1,0 +1,20 @@
+.conteudo{
+    background-color: aquamarine;
+}
+.titulo{
+    color: royalblue;
+}
+.paragrafo{
+    padding: 50px;
+}
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+}
+#btnOla{
+    background-color: blue;
+    color: aqua;
+    padding: 10px;
+    width: 50px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
